@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical across Rancho Cucamonga and the Inland Empire. Justin looks at the house first and puts the price in writing.';
+            'Residential electrical in Rancho Cucamonga. Justin looks at the house first and puts the price in writing.';
         }
       }
     },
