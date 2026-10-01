@@ -1,4 +1,4 @@
-# Site customization checklist · Mccoy Brothers Electric (hs-035-mccoy)
+# Site customization checklist · McCoy Brothers Electric (hs-035-mccoy)
 Wave 8 · Copperline · offer v2 pricing bar (CR 2026-09-30). Rebuilt 2026-09-25 (CEO change request).
 
 Before preview send:
